@@ -1,0 +1,8 @@
+{
+  "project_name": "Rain Corridor",
+  "ecosystem_type": "migratory_route",
+  "regions_involved": ["Jakarta", "Bandung"],
+  "status": "active",
+  "review_stage": "approved",
+  "log_link": "https://github.com/RegenArchive/RegenNode-Jakarta/blob/main/ETHICS_LOG.md#2025-09-10-rain-corridor"
+}
